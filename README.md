@@ -4,19 +4,19 @@
 
 #### CSS
 
-- [AirBnB](blob/master/CSS/AirBnB.editorconfig)
-- [idiomatic CSS](blob/master/CSS/idiomatic.editorconfig)
+- [AirBnB](CSS/AirBnB.editorconfig)
+- [idiomatic CSS](CSS/idiomatic.editorconfig)
 
 #### JavaScript
 
-- [AirBnB](blob/master/JavaScript/AirBnB.editorconfig)
-- [Khan](blob/master/JavaScript/Khan.editorconfig)
+- [AirBnB](JavaScript/AirBnB.editorconfig)
+- [Khan](JavaScript/Khan.editorconfig)
 
 #### PHP
 
-- [PSR-2](blob/master/PHP/PSR-2.editorconfig)
-- [WordPress](blob/master/PHP/WordPress.editorconfig)
+- [PSR-2](PHP/PSR-2.editorconfig)
+- [WordPress](PHP/WordPress.editorconfig)
 
 #### Ruby
 
-- [bbatsov](blob/master/Ruby/bbatsov.editorconfig)
+- [bbatsov](Ruby/bbatsov.editorconfig)
